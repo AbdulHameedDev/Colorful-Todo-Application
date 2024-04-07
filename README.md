@@ -35,6 +35,7 @@ Welcome to **CodeWithHamza - Updated Todo-List App**! This Node.js application s
 To run the todo-list app, execute the following command:
 ```bash
 npm start
+```
 
 ## Author
 
